@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="34px" height="34px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask fill="white" id="Clip350">
+      <path d="M 160 202  L 160 168  L 194 168  L 194 202  " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -160 -168 )">
+    <image preserveAspectRatio="none" style="overflow:visible" width="34" height="34" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAABUCAYAAAAcaxDBAAAAAXNSR0IArs4c6QAABEJJREFUeJztnV2IVVUUx383nRmx0CxHmxxCTUzSHB8MhHrSh6SY6UEUQaEgfPChCETx48EHQYqiDzAfhB6iIOwto8AeRIkMHJVxEAU1IsH8yBQ/hrS5Or6sG3eOd7zn3rvXXuuce3/wfzgwd++1/uecfc5ZZ+8zBXzTCTwFTJHta8B14G/juDLDBGA18CMwDIyMoWHgB2AV0GEdtEcmAR8Dtx9h4li6BXwAPG6dhAfGA+8BV+swMqlLwDrgMeukrHgaOBLAyKQOlo25TcM84LyCmSX9IX00BT0y7mmZWdJNYKF1stp0Kh+ZSZ2X265c0qY0ZlbTL8A46+Q12GpgZkkbrZMPTScwZGjojbxd+b80NLOkL6xNCMUkoOjA0LvARO1kYzxV9Dm5KLQDr2l3EsPQNyP0kZY+6wBCEOMmPq0uaCdbUG5/itQwPdEu5T8VtE/56crt18MMzca1DX1Guf166NJsXNvQduX260G1EK1t6BXl9uvhsmbj2oZeVG6/HlRj0r7KF4B7EfpJS1GqXmpoH6EjwHHlPmqhX7uDGE9K+yL0kZbvrQMIwSIHT0gl5eY90zkHZp60NiEkKxwYutzahND8Zmjmz9bJa9BjZOYQ8IJ18losl/vSWGYWgaXWSWvzTkRD11onG4s18o5Hy8i70kdT8XKgWXdJXZa2m5JuYG9AM78GnrVOygOvAEcbMLIfWGydhEcWAduAw1XuBoaBQ8AmYIF10OV4KatVYgLwPDATmAvcB87K3M/T1sG1aNGiRYsW7vFylZ8s1agFUlXvAebL0ptK/CMF40G54p8ETshChabkCZkJtws4FfBJaRD4HHg9xlxQa54ENgO/Rqw2HQQ25G3ZYhfwqfEc+2vAjkcMIZmgG9gN3DE0MqlbwIeyiCIzdImRmvXORjUkq5+nWZtVjS0OzKpF/8q47o6pwAEHBtWr/Z7WMb0qa9WtTWlUfwFLrM3c7sCI0NpiYWQB+MZB8lraE/MpcjzwnYOktfVVDFPbgJ8cJBtL38oBpMZ+B0nGltqc0t0OkrPSR6HN7HWQlLWCTYec42y9ppWuh1iF1xG4Xpl1Hal2kaq2jv0z4I1G90qOmCGGHqjnxy/K5ALro8Kb/pNhsGYOOQjeq2qeYr7SQdDelXoo7AD+dBCwd52ttMyx0kq6d4Hnaj2km5A5wPo0fzjoYO9nRQ+tY01WU2YDvwfbh83BXDn9ocIp3xs/nsyzrHwjaejUuLHkglGeJQ3N7bc2FRn1ci9pqNr3jHLMSPlG0tATcWPJBQPlG0lDPX3OIiscK99I3jYV5LZpVtyYMssZmc/6/2mfPEJH5L8WtEjHzuQYOtZr0ktOv1vniQsyw3AUY30V5y39eDLP27X+4H0Hz8pelaooUol1rar9KBVDrMNfYvRBf286LIt7g/ES8EmTlfcGZJLD/LQmNTIZamGOn/2vyOvzmnkAPF1+sa/4JBIAAAAASUVORK5CYII=" x="160px" y="168px" mask="url(#Clip350)" />
+  </g>
+</svg>

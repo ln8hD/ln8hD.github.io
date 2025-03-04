@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="55px" height="52px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask fill="white" id="Clip339">
+      <path d="M 121 83  C 118.225 83  116 80.775  116 78  L 116 36  C 116 33.225  118.225 31  121 31  L 166 31  C 168.775 31  171 33.225  171 36  L 171 78  C 171 80.775  168.775 83  166 83  " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -116 -31 )">
+    <image preserveAspectRatio="none" style="overflow:visible" width="55" height="52" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAABUCAYAAAAcaxDBAAAAAXNSR0IArs4c6QAABElJREFUeJztm1uIlVUUx39mhDqD2lgZKjXa5aGgohAs1DHpRmlJJZNgUaH44ktpCV0egrw9KEJKD0NQ4lMDUqGR2KilGYHhk0GgjDpD42Wc0bQbCPayjxz2fOfbt/V9c86wfrBhzpy191rrz97729/e+4CiKIqiKIqiKIqiKIqiKIqiKIqi5DOqoHYnAAuA54HJwH/ASeAE0A0cBM4U5LvCZGAOMMOUVmAM0A98DewCBguOIZm7gQ7gmkfZYRKVptW07RNDh4m5LlnmmYRd1gPjBfw3A2sjY1gu4F+UjZGJVMogsAYYG+l/FTCQGMMGYU2ieTsxkepyDngXuN3D7y3AaqBP0P9bqWKkPpSeAPamBlGDLuBQje9mAU8X5Pdx4EBBbefSDPQK9o56Kd0JU08S6+ogeZ8yCLxhHny3Avs96nxYtpjjgUt1IJZPWWLF3gScd9Tpj+2lN0QKuiJgqdMFfGTK95H+Ujhsff4L+MFRZxLweoExDeFkQA+5uapeyzD00FkZ8R/2qPdbWWIuDEzIpmxB95thXuH9gLptZQj6TYMJeg04DfwIXAyst6NoMZsikilT0E1mfbrCzJUu+1/MCmC+md/t768UvYR6yRFgJzDPKjZt1vedQmIusPzMddj/nBHbngy79oK0BGC7I8hpEW1OExDzSo22f8+p806G/ZIMu50hyYQumxY6vu8PbA/gQkQdmyZgYsb/b8upk7VfkNUhnkqIK5f5Hj3lwYh2HxYa8p9Z7a5x2F8EHqqybwF6atg+65vMjQGJL/Kw2ZuxfrPn0X3WyLgvIIY83gQeMDG0AY857CcAR4FPgHHAi9aauZoXgG+F4rxOd2TPsZHojaHlC3Mcszhyu69XWswpCckMt6AfWP7vimznTh+hfB9KruFTz3xpfT4B7I5oJ+sVdghlCHpPjb/LYrTn/1w8KhDLdX5KGHJ9Zgf8gPBxhW/ZZuUyO7KdrBeBIfgegVw2O/SNyk7gmFmiPRfZxoDZ1svFR9AWocX3SGAc8E+egc8cOl0unobnXpeBj6BF3O5oVFpdBj6CTpGJZUTg1MJH0EZ+GEnjPEfzeZeX3mDtAn51Te4CjAFmmk0dKZydq0xBPwfeM2vRMpkKbAFeFmirycPGyacCi+uPJQJJxPeaZV7pcDnxmUP/TUxkV8YGxXCw3JwhpeDUwkfQPxMC6AFeTagvTbt564vFqUXRgi41O+P1wilgZUL9SxJBtEfON1slnBfEd5E5vSLh/P4Ix3/nHCfUA9OBqxF5SR3XcDnQ8VopxwWyJTAnkeFe4asAx8eBmySdF0Rz4KW3Tknnrhsj1UP9EUnHBTMnQFDXnYRgfHbtS7mtJsyTHnntK8LxHTk3f/sa/CBvNnC2Rm69nr9KgYhfgbSan55UbogMmgtW281wb2SagdeAZ6p2lY4Am4E/hjk2RVEURVEURVEURVEURVEURVEUZQTxP5YQCstmaGMvAAAAAElFTkSuQmCC" x="116px" y="31px" mask="url(#Clip339)" />
+  </g>
+</svg>
